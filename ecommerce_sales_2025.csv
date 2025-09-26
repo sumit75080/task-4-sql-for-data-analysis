@@ -1,0 +1,101 @@
+Order_ID,Customer_Name,Product,Category,Order_Date,Quantity,Price,Total_Amount,City,Payment_Method
+ORD0001,Karthik,Headphones,Electronics,2025-03-07,1,1500,1500,Chennai,Cash on Delivery
+ORD0002,Priya,Watch,Accessories,2025-02-23,4,2500,10000,Chennai,Cash on Delivery
+ORD0003,Arjun,Washing Machine,Home Appliance,2025-06-05,4,18000,72000,Chennai,Cash on Delivery
+ORD0004,Rahul,T-Shirt,Fashion,2025-01-27,5,700,3500,Delhi,Credit Card
+ORD0005,Arjun,Laptop,Electronics,2025-01-03,5,60000,300000,Bangalore,UPI
+ORD0006,Vikram,Laptop,Electronics,2025-02-26,5,60000,300000,Bangalore,Cash on Delivery
+ORD0007,Ravi,T-Shirt,Fashion,2025-03-01,3,700,2100,Mumbai,Cash on Delivery
+ORD0008,Rahul,Laptop,Electronics,2025-05-23,4,60000,240000,Chennai,UPI
+ORD0009,Rahul,Smartphone,Electronics,2025-05-09,3,20000,60000,Bangalore,Debit Card
+ORD0010,Meena,Blender,Home Appliance,2025-05-31,3,1500,4500,Bangalore,Debit Card
+ORD0011,Vikram,Headphones,Electronics,2025-05-03,1,1500,1500,Mumbai,Cash on Delivery
+ORD0012,Vikram,Shoes,Fashion,2025-05-21,3,2500,7500,Delhi,Credit Card
+ORD0013,Priya,Backpack,Fashion,2025-02-11,1,1200,1200,Hyderabad,Cash on Delivery
+ORD0014,Sneha,Watch,Accessories,2025-05-01,1,2500,2500,Chennai,Net Banking
+ORD0015,Anjali,Headphones,Electronics,2025-04-11,5,1500,7500,Mumbai,UPI
+ORD0016,Ravi,T-Shirt,Fashion,2025-02-21,1,700,700,Hyderabad,Debit Card
+ORD0017,Meena,Washing Machine,Home Appliance,2025-03-30,5,18000,90000,Hyderabad,Net Banking
+ORD0018,Priya,Blender,Home Appliance,2025-06-05,5,1500,7500,Chennai,Cash on Delivery
+ORD0019,Ravi,Shoes,Fashion,2025-05-24,5,2500,12500,Mumbai,Cash on Delivery
+ORD0020,Arjun,Watch,Accessories,2025-05-26,3,2500,7500,Hyderabad,UPI
+ORD0021,Ravi,Washing Machine,Home Appliance,2025-04-02,4,18000,72000,Bangalore,Net Banking
+ORD0022,Arjun,Backpack,Fashion,2025-06-09,5,1200,6000,Hyderabad,Net Banking
+ORD0023,Priya,Headphones,Electronics,2025-02-28,1,1500,1500,Mumbai,Debit Card
+ORD0024,Anjali,Shoes,Fashion,2025-05-22,1,2500,2500,Delhi,Credit Card
+ORD0025,Divya,Smartphone,Electronics,2025-04-26,1,20000,20000,Chennai,Net Banking
+ORD0026,Meena,Blender,Home Appliance,2025-06-09,1,1500,1500,Mumbai,Net Banking
+ORD0027,Rahul,Smartphone,Electronics,2025-02-10,2,20000,40000,Delhi,Debit Card
+ORD0028,Karthik,Blender,Home Appliance,2025-04-27,3,1500,4500,Delhi,Cash on Delivery
+ORD0029,Priya,Smartphone,Electronics,2025-03-21,1,20000,20000,Bangalore,Net Banking
+ORD0030,Vikram,T-Shirt,Fashion,2025-01-28,3,700,2100,Delhi,Debit Card
+ORD0031,Meena,Headphones,Electronics,2025-01-06,4,1500,6000,Mumbai,Credit Card
+ORD0032,Vikram,Shoes,Fashion,2025-02-11,1,2500,2500,Bangalore,Debit Card
+ORD0033,Vikram,Backpack,Fashion,2025-06-11,2,1200,2400,Hyderabad,Cash on Delivery
+ORD0034,Meena,Backpack,Fashion,2025-04-12,1,1200,1200,Hyderabad,Net Banking
+ORD0035,Vikram,Laptop,Electronics,2025-02-02,3,60000,180000,Mumbai,Credit Card
+ORD0036,Rahul,Smartphone,Electronics,2025-03-21,1,20000,20000,Delhi,UPI
+ORD0037,Vikram,Headphones,Electronics,2025-02-03,3,1500,4500,Chennai,Debit Card
+ORD0038,Arjun,Headphones,Electronics,2025-05-26,2,1500,3000,Bangalore,UPI
+ORD0039,Anjali,Backpack,Fashion,2025-04-07,1,1200,1200,Mumbai,Net Banking
+ORD0040,Divya,T-Shirt,Fashion,2025-06-22,5,700,3500,Bangalore,Debit Card
+ORD0041,Meena,Watch,Accessories,2025-06-20,1,2500,2500,Bangalore,Net Banking
+ORD0042,Ravi,Watch,Accessories,2025-03-25,1,2500,2500,Hyderabad,Cash on Delivery
+ORD0043,Rahul,Laptop,Electronics,2025-02-21,2,60000,120000,Delhi,Debit Card
+ORD0044,Karthik,Notebook,Stationery,2025-02-24,4,50,200,Delhi,Credit Card
+ORD0045,Vikram,Backpack,Fashion,2025-06-25,3,1200,3600,Hyderabad,Cash on Delivery
+ORD0046,Ravi,T-Shirt,Fashion,2025-01-11,1,700,700,Chennai,UPI
+ORD0047,Karthik,Shoes,Fashion,2025-02-24,5,2500,12500,Delhi,Net Banking
+ORD0048,Anjali,Backpack,Fashion,2025-04-05,3,1200,3600,Delhi,Net Banking
+ORD0049,Divya,Blender,Home Appliance,2025-06-04,2,1500,3000,Bangalore,UPI
+ORD0050,Anjali,Backpack,Fashion,2025-03-24,1,1200,1200,Chennai,Cash on Delivery
+ORD0051,Divya,Washing Machine,Home Appliance,2025-02-02,2,18000,36000,Delhi,Credit Card
+ORD0052,Anjali,Headphones,Electronics,2025-01-20,4,1500,6000,Hyderabad,Debit Card
+ORD0053,Meena,Headphones,Electronics,2025-03-10,1,1500,1500,Delhi,Net Banking
+ORD0054,Anjali,Backpack,Fashion,2025-04-28,1,1200,1200,Delhi,Credit Card
+ORD0055,Arjun,Blender,Home Appliance,2025-06-07,1,1500,1500,Chennai,Credit Card
+ORD0056,Vikram,Smartphone,Electronics,2025-02-18,1,20000,20000,Mumbai,Debit Card
+ORD0057,Vikram,Shoes,Fashion,2025-04-26,1,2500,2500,Mumbai,UPI
+ORD0058,Karthik,Smartphone,Electronics,2025-04-07,4,20000,80000,Hyderabad,Net Banking
+ORD0059,Ravi,Blender,Home Appliance,2025-03-22,4,1500,6000,Chennai,UPI
+ORD0060,Sneha,Laptop,Electronics,2025-01-03,1,60000,60000,Delhi,Debit Card
+ORD0061,Sneha,Watch,Accessories,2025-03-22,4,2500,10000,Bangalore,Credit Card
+ORD0062,Divya,Notebook,Stationery,2025-04-27,5,50,250,Chennai,Net Banking
+ORD0063,Meena,Headphones,Electronics,2025-06-26,5,1500,7500,Bangalore,Net Banking
+ORD0064,Rahul,Shoes,Fashion,2025-02-23,5,2500,12500,Delhi,UPI
+ORD0065,Meena,Notebook,Stationery,2025-03-13,1,50,50,Chennai,Cash on Delivery
+ORD0066,Divya,Headphones,Electronics,2025-02-28,3,1500,4500,Bangalore,Net Banking
+ORD0067,Arjun,Notebook,Stationery,2025-03-23,2,50,100,Hyderabad,Net Banking
+ORD0068,Meena,Notebook,Stationery,2025-05-20,1,50,50,Hyderabad,Debit Card
+ORD0069,Anjali,Smartphone,Electronics,2025-02-26,2,20000,40000,Chennai,UPI
+ORD0070,Vikram,Smartphone,Electronics,2025-05-22,3,20000,60000,Chennai,Credit Card
+ORD0071,Arjun,Laptop,Electronics,2025-04-02,3,60000,180000,Bangalore,Cash on Delivery
+ORD0072,Karthik,Smartphone,Electronics,2025-03-25,5,20000,100000,Chennai,Debit Card
+ORD0073,Karthik,Shoes,Fashion,2025-02-06,2,2500,5000,Delhi,Net Banking
+ORD0074,Divya,Backpack,Fashion,2025-03-17,5,1200,6000,Mumbai,UPI
+ORD0075,Karthik,Backpack,Fashion,2025-03-22,1,1200,1200,Hyderabad,Debit Card
+ORD0076,Meena,Shoes,Fashion,2025-04-21,3,2500,7500,Hyderabad,UPI
+ORD0077,Arjun,T-Shirt,Fashion,2025-01-17,3,700,2100,Bangalore,Cash on Delivery
+ORD0078,Ravi,Blender,Home Appliance,2025-04-23,5,1500,7500,Hyderabad,Cash on Delivery
+ORD0079,Arjun,Washing Machine,Home Appliance,2025-02-13,3,18000,54000,Delhi,Cash on Delivery
+ORD0080,Arjun,Washing Machine,Home Appliance,2025-01-05,5,18000,90000,Chennai,Net Banking
+ORD0081,Anjali,Shoes,Fashion,2025-02-02,5,2500,12500,Mumbai,Net Banking
+ORD0082,Rahul,Washing Machine,Home Appliance,2025-04-13,5,18000,90000,Mumbai,Debit Card
+ORD0083,Divya,T-Shirt,Fashion,2025-01-02,4,700,2800,Mumbai,Debit Card
+ORD0084,Sneha,Backpack,Fashion,2025-06-25,4,1200,4800,Mumbai,UPI
+ORD0085,Sneha,Watch,Accessories,2025-02-27,4,2500,10000,Bangalore,Net Banking
+ORD0086,Ravi,Headphones,Electronics,2025-06-15,3,1500,4500,Mumbai,Credit Card
+ORD0087,Divya,Backpack,Fashion,2025-02-10,3,1200,3600,Hyderabad,UPI
+ORD0088,Rahul,Blender,Home Appliance,2025-05-22,3,1500,4500,Delhi,UPI
+ORD0089,Priya,Headphones,Electronics,2025-02-01,1,1500,1500,Hyderabad,Debit Card
+ORD0090,Anjali,Washing Machine,Home Appliance,2025-02-09,2,18000,36000,Delhi,Cash on Delivery
+ORD0091,Meena,Headphones,Electronics,2025-05-07,1,1500,1500,Bangalore,Net Banking
+ORD0092,Vikram,Backpack,Fashion,2025-05-20,2,1200,2400,Chennai,Debit Card
+ORD0093,Divya,Blender,Home Appliance,2025-03-10,1,1500,1500,Chennai,UPI
+ORD0094,Anjali,Smartphone,Electronics,2025-03-03,4,20000,80000,Bangalore,Cash on Delivery
+ORD0095,Vikram,Shoes,Fashion,2025-04-23,3,2500,7500,Mumbai,Debit Card
+ORD0096,Priya,T-Shirt,Fashion,2025-04-21,1,700,700,Hyderabad,Debit Card
+ORD0097,Vikram,Smartphone,Electronics,2025-03-13,3,20000,60000,Mumbai,Cash on Delivery
+ORD0098,Ravi,Laptop,Electronics,2025-05-16,2,60000,120000,Bangalore,Debit Card
+ORD0099,Arjun,Laptop,Electronics,2025-03-04,5,60000,300000,Delhi,UPI
+ORD0100,Karthik,Blender,Home Appliance,2025-05-19,2,1500,3000,Mumbai,Net Banking

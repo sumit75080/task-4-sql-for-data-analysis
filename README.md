@@ -1,2 +1,16 @@
-# task-4-sql-for-data-analysis
-This repository contains SQL scripts, sample datasets, and a step-by-step walkthrough for Task 4: performing data analysis using SQL. The goal is to demonstrate how to clean, explore, aggregate, and produce business-ready reports using core SQL features (joins, group by, window functions, CTEs, subqueries, and basic performance tips).
+# Task-4-SQL-for-analysis
+
+# Ecommerce Sales SQL Analysis
+
+## Tools Used
+- SQLite  
+- SQLiteOnline  
+
+## Dataset
+- `ecommerce_sales_2025.csv` – Contains order details, customers, products, prices, and payment methods.  
+
+## What I Did
+- Created and loaded the `ecommerce_sales` table  
+- Applied SQL queries using SELECT, WHERE, GROUP BY, ORDER BY  
+- Used aggregates (SUM, AVG), subqueries, joins, views, and indexes for analysis  
+
